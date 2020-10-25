@@ -1,0 +1,2 @@
+# kivybuild
+my main.py
